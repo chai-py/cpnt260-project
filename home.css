@@ -1,0 +1,11 @@
+.container {
+    background-color: rgb(86, 45, 124) ;
+}
+
+.container p {  
+
+font-family: "Cinzel", serif;
+font-optical-sizing: auto;
+font-weight:bold;
+font-style: normal;
+}
