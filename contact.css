@@ -1,3 +1,8 @@
+.title:hover {
+    color: rgb(21, 66, 150);
+    text-decoration:underline;
+}
+
 body, html{
     margin: 0;
     padding: 0;
@@ -14,4 +19,17 @@ footer {
     padding: 10px;
 }
 
+.send {
+    display: inline-block;           
+    padding: 12px 24px;             
+    font-size: 16px;                
+    font-weight: bold;              
+    text-align: center;            
+    color: white;                   
+    background-color: #007bff;     
+    border: none;                  
+    border-radius: 5px;            
+    cursor: pointer;                
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
 

@@ -11,7 +11,7 @@ font-family: "DynaPuff", system-ui;
 .product img {
     width: 100%;
     height: auto;
-    background-color: rgb(205, 223, 247);
+    
 }
 
 .product h5 {
@@ -34,4 +34,10 @@ font-family: "DynaPuff", system-ui;
 .title:hover {
     color: rgb(21, 66, 150);
     text-decoration:underline;
+}
+
+
+.card:hover {
+    transform: translateY(-10px); 
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
 }

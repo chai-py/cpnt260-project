@@ -1,0 +1,39 @@
+.title:hover {
+    color: rgb(21, 66, 150);
+    text-decoration:underline;
+}
+
+.sub h2 {
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: italic;      
+}
+
+.sub h3 {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: underline;
+
+}
+
+.sub strong {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+.postcom {
+    display: inline-block;           
+    padding: 12px 24px;             
+    font-size: 16px;                
+    font-weight: bold;              
+    text-align: center;            
+    color: white;                   
+    background-color: #007bff;     
+    border: none;                  
+    border-radius: 5px;            
+    cursor: pointer;                
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
