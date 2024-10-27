@@ -22,3 +22,4 @@ Chaital Trivedi (https://chai-py.github.io/cpnt260-project/index.html)
 Media by[Pixels] : https://www.pexels.com/ - Used for Product section images
 Icons by [Font Awesome](https://fontawesome.com/) - Used for social media links.
 Fonts by[google] - (https://fonts.google.com/) - Used for fonts on all pages
+Video by [TechPoojari] - (https://www.youtube.com/@TechPoojari) - Used on blog post
