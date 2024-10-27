@@ -1,7 +1,37 @@
 .container p {  
 
-font-family: "Cinzel", serif;
-font-optical-sizing: auto;
-font-weight:bold;
-font-style: normal;
+font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    font-weight:bold;
+    font-style: normal;
+  
+}
+
+
+.product img {
+    width: 100%;
+    height: auto;
+    background-color: rgb(205, 223, 247);
+}
+
+.product h5 {
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    font-weight:bold;
+    font-style: normal;
+}
+
+.product h5:hover {
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    font-weight:bold;
+    font-style: normal;
+    color: rgb(21, 19, 163);
+    text-decoration: underline;
+}
+
+
+.title:hover {
+    color: rgb(21, 66, 150);
+    text-decoration:underline;
 }
